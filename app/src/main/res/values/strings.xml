@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScanFish</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="scan_fish">Scan Ikan</string>
+    <string name="scan_successfull">Scan Berhasil</string>
+    <string name="scan_failed">Scan Gagal</string>
+    <string name="oke">Oke</string>
+</resources>
