@@ -8,7 +8,16 @@
 * intent Gallery -> Selecting a photo from the gallery
 * intent Camera -> Taking a photo Using the device Camera
 * TensorFlowLite -> Embedding /Deploying models using tensorFlowLite
-  
+## list of fish types in the model
+* Bandeng
+* Belanak
+* Gabus
+* Gurame
+* Kakap Merah
+* Lele
+* Longtail Tuna
+* Patin
+* Tenggiri
 ## <H2> How To Run</H2>
 ### Run in Android Studio
 * Clone this [repository](https://github.com/Milham771/Scan_Fish) to your local machine.
